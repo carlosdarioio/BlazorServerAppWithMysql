@@ -1,0 +1,5 @@
+﻿https://www.youtube.com/watch?v=lc_UYcSibDg
+https://github.com/james-schneider/blazor-server-with-mysql/blob/main/BlazorServerApp/Pages/Index.razor
+
+aaaaaaaaaaaaaaaa
+ata el login trae ete priyect mira como es!!!
